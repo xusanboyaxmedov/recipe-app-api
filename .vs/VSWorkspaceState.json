@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\app",
+    "\\app\\core",
+    "\\app\\core\\management",
+    "\\app\\core\\management\\commands",
+    "\\app\\core\\tests"
+  ],
+  "SelectedNode": "\\app\\core\\management\\commands",
+  "PreviewInSolutionExplorer": false
+}
